@@ -1,10 +1,6 @@
 # Hatch2021Trophy
 Overview of the trophies created for the HATCH 2021 Winners
 
-How to Program the trophy:
-The trophy contains an ATTINY85 Microcontroller and can be programed unsing an arduino board, like the arduino uno.  
-https://create.arduino.cc/projecthub/arjun/programming-attiny85-with-arduino-uno-afb829
-
 Thanks for visiting this page to learn more about your HATCH trophy!
 
 View my YouTube video for a quick overview and demo:
@@ -29,3 +25,12 @@ Neopixel (WS2812v3) RGB LEDs
 Light Sensor
 18650 Battery, along with charging circuit (micro USB)
 Pinout for all 8 pins on the microcontroller, so you can program it or add other features.
+
+How to set up Arduino:
+https://www.arduino.cc/en/Guide/ArduinoUno
+
+How to Program the trophy (Arduino as ISP):
+The trophy contains an ATTINY85 Microcontroller and can be programed unsing an arduino board, like the arduino uno.  
+https://create.arduino.cc/projecthub/arjun/programming-attiny85-with-arduino-uno-afb829
+
+It may be possible to program the trophy using a micro USB cable and the Micronucleus bootloader.  I have included the circuitry for that, but haven't tried to configure it.  It seems like most modern computers have trouble with it.  But if you want that functionality, give it a try!  For advanced users only.
