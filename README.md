@@ -4,7 +4,7 @@ Overview of the trophies created for the HATCH 2021 Winners
 Thanks for visiting this page to learn more about your HATCH trophy!
 
 View my YouTube video for a quick overview and demo:
-https://www.youtube.com/MakeItHackin
+https://youtu.be/y4QBiJtTjaM
 
 The trophy uses open source code and hardware, so please hack it to make it do what you want. It comes loaded with some demo code to test each of the components.
 
